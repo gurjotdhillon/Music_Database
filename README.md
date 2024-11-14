@@ -1,4 +1,3 @@
-```
 # Music Database Analysis Project
 
 This project involves analyzing a music database using SQL to extract meaningful insights about employees, customers, sales, and music trends. The database contains information about employees, customers, invoices, tracks, albums, artists, and genres.
